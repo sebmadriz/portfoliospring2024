@@ -1,36 +1,19 @@
 *{
     margin: 0;
+    overflow: hidden;
+}
+
+body{
+    background-color: #000;
+    color: #fff;
+    font-family: "Archivo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 125;
 }
 
 p{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 10vh;
-    color: #fff;
-}
-
-.main{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.parent{
-    height: 100vh;
-    width: auto;
-    background-color: rgb(14, 20, 25);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.e, .eTwo, .n, .t, .r{
-    transition-duration: 400ms;
-    transition-property: inherit;
-    transition-delay: 0;
-    transition-timing-function: ease-out;
-}
-
-.e:hover{
-    transform: translateY(10vh) translateX(-25vh);
-
+    font-size: 100pt;
 }
