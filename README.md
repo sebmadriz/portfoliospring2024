@@ -18,3 +18,5 @@ by Sebastian Madriz 2024
 
 Thank you to 'Web Dev Made Easy' for code I used in the project!
 https://youtu.be/uV8kH5RgSZU?si=2vPrug29fyUOOsl3
+Thank you to 'Codehal' for code I used in the project!
+https://www.youtube.com/watch?v=2DVkNvVcQAU
