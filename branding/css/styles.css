@@ -106,22 +106,35 @@ section{
     font-weight: 700;
 }
 
-#secOne{
-    background-color: #3dbced;
-}
-
-#secTwo{
-    background-color: #29AAE1;
-}
-
-#secThree{
-    background-color: #117BA2;
-}
-
-#secFour{
+.secBG{
     background-color: #014c68;
 }
 
-#secFive{
+.bg {
+    /* The image used */
+    background-image: url("img_girl.jpg");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+#imgOne{
+    height: 50vh;
+}
+
+.secBGwhite{
+    background-color: #fff;
+}
+
+#secOne{
     background-color: #003F56;
+}
+
+#jokesAside{
+    padding-top: 1vh;
 }
