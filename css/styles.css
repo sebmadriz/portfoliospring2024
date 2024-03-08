@@ -23,6 +23,7 @@ h1{
     font-weight: 900;
     font-style: normal;
     font-variation-settings: "wdth" 125;
+    margin-bottom: 1vh;
 }
 
 p{
@@ -99,6 +100,12 @@ section{
     background-color: #08598f;
     color: #fff;
     cursor: pointer;
+}
+
+.homeImage{
+    width: 25vw;
+    max-width: 250px;
+    border-radius: 40px;
 }
 
 #secOne{
