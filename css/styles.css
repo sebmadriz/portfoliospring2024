@@ -83,7 +83,11 @@ section{
 }
 
 .projectImg{
-    margin-right: 5vh;
+    margin-right: 2vh;
+    width: 10vw;
+    min-width: 200px;
+    max-height: 200px;
+    margin-top: -3vh;
 }
 
 .button{

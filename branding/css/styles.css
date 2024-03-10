@@ -82,10 +82,6 @@ section{
     min-width: 400px;
 }
 
-.projectImg{
-    margin-right: 5vh;
-}
-
 .button{
     background-color: rgba(0, 0, 0, 0.41);
     color: #3dbced;
@@ -110,14 +106,16 @@ section{
     background-color: #014c68;
 }
 
+.projectImg{
+    margin-right: 2vh;
+    width: 10vw;
+    min-width: 200px;
+    max-height: 200px;
+    margin-top: -3vh;
+}
+
 .bg {
-    /* The image used */
-    background-image: url("img_girl.jpg");
-  
-    /* Full height */
     height: 100%;
-  
-    /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

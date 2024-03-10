@@ -4,7 +4,7 @@ by Sebastian Madriz 2024
 
 # Current Progress
 
-0% of this Project is completed
+90% of this Project is completed
 
 # Project Overview
 

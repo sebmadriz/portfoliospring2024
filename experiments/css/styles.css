@@ -23,7 +23,6 @@ h1{
     font-weight: 900;
     font-style: normal;
     font-variation-settings: "wdth" 125;
-    margin-bottom: 1vh;
 }
 
 p{
@@ -32,6 +31,7 @@ p{
     font-weight: 400;
     font-style: normal;
     font-variation-settings: "wdth" 100;
+    margin-top: 1vh;
 }
 
 section{
@@ -83,12 +83,16 @@ section{
 }
 
 .projectImg{
-    margin-right: 5vh;
+    margin-right: 2vh;
+    width: 10vw;
+    min-width: 200px;
+    max-height: 200px;
+    margin-top: -3vh;
 }
 
 .button{
     background-color: rgba(0, 0, 0, 0.41);
-    color: #3dbced;
+    color: #51ed3d;
     width: fit-content;
     display: flex;
     padding: 12px;
@@ -97,7 +101,7 @@ section{
 }
 
 .button:hover{
-    background-color: #08598f;
+    background-color: #188f08;
     color: #fff;
     cursor: pointer;
 }
@@ -106,22 +110,13 @@ section{
     font-weight: 700;
 }
 
+.maxHeight{
+    padding-top: 20vh;
+    margin-bottom: 10vh;
+    height: 100%;
+    object-fit: cover;
+}
+
 #secOne{
-    background-color: #3dbced;
-}
-
-#secTwo{
-    background-color: #29AAE1;
-}
-
-#secThree{
-    background-color: #117BA2;
-}
-
-#secFour{
-    background-color: #014c68;
-}
-
-#secFive{
-    background-color: #003F56;
+    background-color: #64c00f;
 }
